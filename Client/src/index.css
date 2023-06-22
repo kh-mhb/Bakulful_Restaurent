@@ -1,0 +1,8 @@
+.active {
+    font-weight: bold;
+
+}
+
+carousel-img {
+    filter: brightness(20%) contrast(80%);
+}

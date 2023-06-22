@@ -1,0 +1,362 @@
+[
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/02/65/16/18/240_F_265161867_nUORzZ1sfwADG6RoOsCPdf81KKYQdD3G.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "nameRecipes": "Toast",
+        "likes": 2000,
+        "viewRecipes": "To make toast, preheat your toaster, place bread in the toaster, and toast until it reaches your desired crispiness. Once it's done, remove it from the toaster and add any desired toppings, such as butter or jam. Enjoy!",
+        "category_id": 1,
+        "_id": "chef0001"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/04/42/12/10/240_F_442121033_bSoeTgz2cXKOD5H6Vt2l5cABCrO3QDGv.jpg",
+        "chefName": "Emily Davis",
+        "yearsOfExperience": 5,
+        "nameRecipes": "Veg Biriyani",
+        "likes": 1000,
+        "viewRecipes": "Soak 1 cup of basmati rice. Sauté 1 chopped onion and 1 chopped tomato in oil with cumin seeds and ginger-garlic paste. Add a mix of vegetables, 1 tsp each of salt and biryani masala, and cook. Drain the soaked rice and add to the pan with 2 cups of water. Cover and cook for 15-20 mins. Let it sit for 5 mins, then garnish with coriander and fried onions. Enjoy!",
+        "category_id": 2,
+        "_id": "chef0002"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/67/18/02/240_F_167180260_fr5jSt3mhfa6PR6ZJEn0uDwoQr1xW7i1.jpg",
+        "chefName": "Michael Wilson",
+        "yearsOfExperience": 8,
+        "nameRecipes": "Paneer Pakora",
+        "likes": 1500,
+        "viewRecipes": "Cut 200g of paneer into cubes. In a bowl, mix 1/2 cup of besan (gram flour), 1/4 cup of rice flour, 1/2 tsp of red chili powder, 1/4 tsp of turmeric powder, 1/2 tsp of cumin powder, and salt to taste. Add water to make a thick batter. Heat oil in a pan. Dip the paneer cubes in the batter and fry until golden brown. Serve hot with mint chutney or ketchup. Enjoy!",
+        "category_id": 3,
+        "_id": "chef0003"
+    },
+    {
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+        "chefName": "Sarah Thompson",
+        "yearsOfExperience": 12,
+        "nameRecipes": "Onion Salad",
+        "likes": 3000,
+        "viewRecipes": "Thinly slice 1 large onion and place it in a bowl. Add 1 sliced cucumber, 1 sliced tomato, and a handful of chopped coriander leaves. Sprinkle salt, black pepper powder, and red chili powder to taste. Squeeze 1/2 a lemon and mix everything well. Refrigerate for 30 minutes before serving to let the flavors meld together. Enjoy!",
+        "category_id": 4,
+        "_id": "chef0004"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/04/47/59/31/240_F_447593147_gBDjBrnpBjW262XU1oJzyJb6AsV05F5P.jpg",
+        "chefName": "William Rodriguez",
+        "yearsOfExperience": 15,
+        "nameRecipes": "Basmati Rice",
+        "likes": 5000,
+        "viewRecipes": "Rinse 1 cup of basmati rice and soak it in water for 30 minutes. In a pot, bring 1.5 cups of water to a boil. Drain the soaked rice and add it to the pot of boiling water. Add salt and 1 tbsp of oil, stir, and cover with a tight-fitting lid. Reduce heat to low and let it cook for 15-20 minutes until the water is absorbed and the rice is fluffy. Remove from heat and let it rest for 5 minutes. Fluff with a fork and serve hot as a side dish with your favorite curry or dal. Enjoy!",
+        "category_id": 5,
+        "_id": "chef0005"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/04/55/15/60/240_F_455156003_QJ5N2utHKPlivEE6I96VRIPw78j3XSxT.jpg",
+        "chefName": "Sophia Campbell",
+        "yearsOfExperience": 3,
+        "nameRecipes": "Chakli",
+        "likes": 800,
+        "viewRecipes": "In a mixing bowl, combine 1 cup of rice flour, 1/2 cup of besan, 1/2 tsp of cumin seeds, 1/2 tsp of sesame seeds, 1/2 tsp of red chili powder, and salt to taste. Gradually add water and knead until the dough is smooth and soft. Heat oil in a chakli maker and put the dough inside. Press it in a spiral shape onto a greased plate. Deep fry in hot oil until golden brown. Drain on paper towels to remove excess oil. Serve as a snack with tea or coffee. Enjoy!",
+        "category_id": 6,
+        "_id": "chef0006"
+    },
+    {
+        "chefPicture": "https://media.istockphoto.com/id/516329534/photo/last-straw.jpg?s=612x612&w=0&k=20&c=q9tScD01SPtN5QNAYgWG-ot4n_4hZXOgMStuFgmBFa8=",
+        "chefName": "David Clark",
+        "yearsOfExperience": 7,
+        "nameRecipes": "Green Yogurt",
+        "likes": 1200,
+        "viewRecipes": "This green yogurt recipe requires plain Greek yogurt, fresh spinach leaves, a ripe banana, honey, and vanilla extract. Blend the spinach, banana, honey, and vanilla extract until smooth, then whisk the yogurt until smooth and mix everything together. Refrigerate for at least an hour before serving. It's a healthy and delicious way to incorporate more greens into your diet.",
+        "category_id": 1,
+        "_id": "chef0007"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/04/51/04/83/240_F_451048363_kzc4buMJbvuDksiSmA44aIDrdHWykv1W.jpg",
+        "chefName": "Ava Martinez",
+        "yearsOfExperience": 4,
+        "nameRecipes": "Rajma Chawal",
+        "likes": 700,
+        "viewRecipes": "Soak 1 cup of kidney beans (rajma) in water for 6-8 hours or overnight. Pressure cook the rajma with 4 cups of water and 1 teaspoon of salt for 20-25 minutes. In a pan, heat 2 tablespoons of oil and add 1 chopped onion, 1 chopped tomato, and 1 teaspoon of ginger-garlic paste. Sauté until the tomato is mushy. Add 1 teaspoon of cumin powder, 1 teaspoon of coriander powder, 1/2 teaspoon of turmeric powder, 1/4 teaspoon of red chili powder, and mix well. Add the cooked rajma to the pan and cook for 10-15 minutes. Serve with steamed rice. Enjoy!",
+        "category_id": 2,
+        "_id": "chef0008"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/05/68/47/38/240_F_568473815_y4QB2me3HiBBEVBPBQiDKQ8lycANgEmF.jpg",
+        "chefName": "Maggie Lee",
+        "yearsOfExperience": 8,
+        "nameRecipes": "Samosa",
+        "likes": 1800,
+        "viewRecipes": "For the dough, mix 2 cups of all-purpose flour, 1/2 tsp of ajwain seeds, 1/2 tsp of salt, and 1/4 cup of oil. Add water as needed and knead into a firm dough. For the filling, heat 2 tbsp of oil in a pan, add 1/2 tsp of cumin seeds, 1/2 cup of boiled and mashed potatoes, 1/4 cup of green peas, 1/2 tsp of garam masala, 1/2 tsp of red chili powder, and salt to taste. Mix well and let it cool. Divide the dough into small balls and roll each ball into a thin oval shape. Cut it in half, fold and shape into a cone. Fill it with the potato mixture, seal and fry in hot oil until golden brown. Serve hot with mint chutney or tamarind chutney. Enjoy!",
+        "category_id": 3,
+        "_id": "chef0031"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/01/67/30/91/240_F_167309151_w59oY0gIRleiuQco1swMk3elu9IHTogF.jpg",
+        "chefName": "James Kim",
+        "yearsOfExperience": 5,
+        "nameRecipes": "Kachumbar Salad",
+        "likes": 1300,
+        "viewRecipes": "Dice 1 cucumber, 1 tomato, and 1 onion. Add a handful of chopped coriander leaves. Mix well in a bowl. In a separate bowl, mix 1/2 tsp of chaat masala, 1/4 tsp of roasted cumin powder, 1/4 tsp of red chili powder, and salt to taste. Add the spice mix to the veggies and mix well. Squeeze 1/2 a lemon and mix again. Serve chilled as a refreshing side salad with your favorite Indian dish. Enjoy!",
+        "category_id": 4,
+        "_id": "chef0032"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/00/69/91/98/240_F_69919895_k1nuzu1R7KeIok5PZCYApe9WkSg3hqoH.jpg",
+        "chefName": "Hannah Nguyen",
+        "yearsOfExperience": 12,
+        "nameRecipes": "Pulao",
+        "likes": 2800,
+        "viewRecipes": "In a pot, heat 1 tbsp of oil and sauté 1 chopped onion until translucent. Add 1 cup of mixed vegetables and sauté for 2-3 minutes. Rinse 1 cup of basmati rice and add it to the pot. Add 1.5 cups of water, salt, and 1 tsp of garam masala powder. Stir, cover with a tight-fitting lid, and let it cook on low heat for 15-20 minutes until the water is absorbed and the rice is cooked. Turn off the heat and let it rest for 5 minutes. Fluff with a fork and serve hot as a delicious one-pot meal. Enjoy!",
+        "category_id": 5,
+        "_id": "chef0033"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/04/12/58/76/240_F_412587608_HynpmzTPh40hLFltUMzXNCxlolzlvB23.jpg",
+        "chefName": "Banana Chips",
+        "yearsOfExperience": 7,
+        "nameRecipes": 45,
+        "likes": 1500,
+        "viewRecipes": "Peel and slice raw bananas thinly. Soak the slices in salt water for 10 minutes. Drain and pat dry. Deep fry in hot oil until golden brown and crispy. Drain on paper towels to remove excess oil. Sprinkle with salt and chili powder. Serve as a snack with tea or coffee. Enjoy!",
+        "category_id": 6,
+        "_id": "chef0034"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/00/60/52/19/240_F_60521968_7SY1NaNMG61I1ovlhPfsk0GkcfPjEFLC.jpg",
+        "chefName": "Isabella Jones",
+        "yearsOfExperience": 15,
+        "nameRecipes": "Oats",
+        "likes": 5000,
+        "viewRecipes": "To make oatmeal, bring 2 cups of water or milk to a boil and add 1 cup of rolled oats and a pinch of salt. Let the oats simmer for about 5 minutes, stirring occasionally, until they reach your desired consistency. Remove the pot from the heat and let the oatmeal cool for a minute or two before adding any toppings you like, such as fresh fruit, nuts, or honey. Serve warm and enjoy! Oatmeal is a classic breakfast dish that's easy to customize with different flavors and toppings.",
+        "category_id": 1,
+        "_id": "chef0035"
+    },
+    {
+        "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRea0BwenZhhS7aCvm7Cy6X4IDp3Y1gfkXbag8XwcuPw4F2HAIuBMZ0rBPtWS9tBuvf2I8&usqp=CAU",
+        "chefName": "Daniel Kim",
+        "yearsOfExperience": 9,
+        "nameRecipes": "Bisi Bele Bath",
+        "likes": 2000,
+        "viewRecipes": "Pressure cook 1 cup of rice and 1/2 cup of toor dal with 4 cups of water for 4-5 whistles. In a pan, heat 2 tablespoons of oil and add 1 teaspoon of mustard seeds, 1 teaspoon of cumin seeds, and a pinch of asafoetida. Add 1 chopped onion, 1 chopped tomato, and 1/2 cup of mixed vegetables. Sauté until the vegetables are cooked. Add 1 tablespoon of bisi bele bath powder and mix well. Add the cooked rice and dal mixture to the pan and mix well. Add salt to taste and cook for 5-10 minutes. Serve hot. Enjoy!",
+        "category_id": 2,
+        "_id": "chef0036"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/21/38/14/240_F_121381404_DVGA8BahSwO85BckblZOGZGVZpO7HyRK.jpg",
+        "chefName": "Sophie Brown",
+        "yearsOfExperience": 3,
+        "nameRecipes": "Potato Fritter Slidens",
+        "likes": 600,
+        "viewRecipes": "Slice 2 large potatoes into thin rounds. In a bowl, mix 1/2 cup of chickpea flour (besan), 1/2 tsp of red chili powder, 1/2 tsp of cumin powder, 1/4 tsp of turmeric powder, and salt to taste. Add water as needed and mix into a smooth batter. Dip the potato slices in the batter and fry until golden brown. For the sliders, slice buns in half, add lettuce, tomato slices, and a potato fritter. Spread mint chutney or ketchup on the other half of the bun and serve. Enjoy!",
+        "category_id": 3,
+        "_id": "chef0037"
+    },
+    {
+        "chefPicture": "https://vietucnews.net/wp-content/uploads/2018/11/P18-DIPLOMA-IN-PROFESSIONAL-CHEF.jpg",
+        "chefName": "Matthew Johnson",
+        "yearsOfExperience": 6,
+        "nameRecipes": "Boiled Peanut Salad",
+        "likes": 1200,
+        "viewRecipes": "Boil 1 cup of peanuts in water until soft. Drain and let them cool. In a bowl, add the boiled peanuts, 1 chopped onion, 1 chopped tomato, and a handful of chopped coriander leaves. Mix well. In a separate bowl, whisk together 1 tsp of lemon juice, 1/2 tsp of chaat masala, 1/4 tsp of red chili powder, and salt to taste. Pour the dressing over the salad and mix well. Serve chilled as a healthy and protein-packed snack. Enjoy!",
+        "category_id": 4,
+        "_id": "chef0038"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/05/68/32/00/240_F_568320008_yYRzx6hjeRM6G97XkVD1aHRD0eJOTwO8.jpg",
+        "chefName": "Ryan Lee",
+        "yearsOfExperience": 4,
+        "nameRecipes": "Chapati",
+        "likes": 800,
+        "viewRecipes": "In a mixing bowl, combine 2 cups of whole wheat flour, 1/2 tsp salt, and 1 tbsp oil. Gradually add water and knead until the dough is soft and smooth. Cover and let it rest for 10-15 minutes. Divide the dough into equal-sized balls and roll them out into thin circles. Heat a skillet over medium-high heat and cook the chapati on both sides until lightly browned and puffy. Brush with butter or ghee if desired. Serve hot with your favorite curry or sabzi. Enjoy!",
+        "category_id": 5,
+        "_id": "chef0040"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/00/66/30/07/240_F_66300728_DGzZmzSymNg0zk6Ipi8lsz6oISskKryO.jpg",
+        "chefName": "Ethan Garcia",
+        "yearsOfExperience": 11,
+        "nameRecipes": "Khaman",
+        "likes": 3000,
+        "viewRecipes": "In a mixing bowl, combine 1 cup of besan, 1 tbsp of semolina, 1 tbsp of sugar, 1 tbsp of lemon juice, 1 tsp of ginger paste, 1 tsp of green chili paste, and salt to taste. Gradually add water and whisk until the batter is smooth and free of lumps. Grease a steaming plate with oil and pour the batter into it. Steam for 15-20 minutes or until a toothpick inserted comes out clean. Heat oil in a small pan and add mustard seeds, sesame seeds, and curry leaves. Once the mustard seeds pop, pour this tempering over the steamed khaman. Garnish with chopped coriander leaves and grated coconut. Serve hot with green chutney. Enjoy",
+        "category_id": 6,
+        "_id": "chef0041"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/05/78/22/44/240_F_578224421_I8qVHTjNp18dxmR1mNc9I4hF9j1CNbFV.jpg",
+        "chefName": "Jennifer Park",
+        "yearsOfExperience": 7,
+        "nameRecipes": "Whole Grain Toast",
+        "likes": 1800,
+        "viewRecipes": "To make whole grain toast, preheat your oven's broiler or toaster oven and place sliced whole grain bread on a baking sheet. Spread a thin layer of butter or margarine on top of the bread and broil for 1-2 minutes until crispy and golden brown. Add toppings like sliced avocado, tomato, or cheese, then broil for another 1-2 minutes until heated through and any cheese is melted. Serve warm and enjoy! This recipe is a quick and easy way to enjoy a healthy and flavorful breakfast or snack.",
+        "category_id": 1,
+        "_id": "chef0043"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/04/18/02/76/240_F_418027614_qgoV02cLZRNYgBOv4n6KJIH2dnFEsdWY.jpg",
+        "chefName": "Daniel Kim",
+        "yearsOfExperience": 5,
+        "nameRecipes": "Chana Masala",
+        "likes": 700,
+        "viewRecipes": "In a pan, heat 2 tablespoons of oil and add 1 teaspoon of cumin seeds. Add 1 chopped onion and sauté until golden brown. Add 1 teaspoon of ginger-garlic paste and sauté for 1 minute. Add 1 chopped tomato and cook until it turns mushy. Add 1 can of chickpeas, 1 teaspoon of coriander powder, 1/2 teaspoon of cumin powder, 1/4 teaspoon of turmeric powder, 1/4 teaspoon of red chili powder, and salt to taste. Mix well and cook for 5-10 minutes. Garnish with fresh coriander leaves and serve hot with rice or naan. Enjoy!",
+        "category_id": 2,
+        "_id": "chef0044"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/67/13/72/240_F_167137297_emiSSFzVhx3POsP8YnUriidp9YXS0E3U.jpg",
+        "chefName": "Jessica Lee",
+        "yearsOfExperience": 9,
+        "nameRecipes": "Gobi Pakora Gobi",
+        "likes": 2200,
+        "viewRecipes": "Cut 1 medium cauliflower into florets. In a bowl, mix 1/2 cup of besan (gram flour), 1/4 cup of rice flour, 1/2 tsp of red chili powder, 1/4 tsp of turmeric powder, 1/2 tsp of cumin powder, and salt to taste. Add water to make a thick batter. Heat oil in a pan. Dip the cauliflower florets in the batter and fry until golden brown. Serve hot with mint chutney or ketchup. Enjoy!",
+        "category_id": 3,
+        "_id": "chef0045"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/67/12/58/240_F_167125895_XrCw4zMXywBvFK2uRv7QgpovckrOV3Zs.jpg",
+        "chefName": "Michael Chen",
+        "yearsOfExperience": 12,
+        "nameRecipes": "Cucumber Kosambari",
+        "likes": 3500,
+        "viewRecipes": "Soak 1/4 cup of split green gram dal for 30 minutes. Drain and mix with 1 chopped cucumber, 1 chopped carrot, 1 chopped green chili, and coriander leaves. Add salt and lemon juice to taste. For the tempering, heat oil in a pan, add mustard seeds and asafoetida, then pour over the salad. Serve chilled as a healthy side dish. Enjoy!",
+        "category_id": 4,
+        "_id": "chef0046"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/00/55/13/63/240_F_55136397_uZ9AbGhspwqbB5ZehIcMkjtU93IoGBE1.jpg",
+        "chefName": "Rachel Kim",
+        "yearsOfExperience": 8,
+        "nameRecipes": "Naan Bread",
+        "likes": 1500,
+        "viewRecipes": "In a mixing bowl, combine 2 cups of all-purpose flour, 1 tsp baking powder, 1/2 tsp baking soda, and 1/2 tsp salt. Gradually add 1/2 cup of plain yogurt and 1/2 cup of milk to the bowl and knead until the dough is soft and smooth. Cover and let it rest for 1 hour. Preheat the oven to 500°F (260°C) with a baking sheet inside. Divide the dough into equal-sized balls and roll them out into teardrop shapes. Brush with melted butter or ghee and bake in the oven for 5-6 minutes until puffed and lightly browned. Serve hot as a delicious side with your favorite curry or sabzi. Enjoy!",
+        "category_id": 5,
+        "_id": "chef0047"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/93/97/36/240_F_193973610_CZ0uZIGi8VSEZFONsvCzw01QViNLAm4D.jpg",
+        "chefName": "David Lee",
+        "yearsOfExperience": 6,
+        "nameRecipes": "Vada Pav",
+        "likes": 1000,
+        "viewRecipes": "For the vada, mix 1 cup of boiled and mashed potatoes with 1 tsp of ginger-garlic paste, 1 tsp of green chili paste, 1 tsp of mustard seeds, 1 tsp of cumin seeds, 1 tbsp of chopped coriander leaves, and salt to taste. Divide the mixture into small balls and flatten them into patties. Dip the patties in a batter made of 1 cup of gram flour, 1 tsp of chili powder, 1/4 tsp of turmeric powder, and salt to taste. Deep fry the coated patties until golden brown and crispy. For the pav, slit a bun in half and apply green chutney and tamarind chutney. Place the vada between the two halves and press lightly. Serve hot with fried green chilies and tomato ketchup. Enjoy!",
+        "category_id": 6,
+        "_id": "chef0048"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/00/96/06/20/240_F_96062035_ARjUdkSTHjW04z7OXZx6ki9fa422DLCE.jpg",
+        "chefName": "John Smith",
+        "yearsOfExperience": 10,
+        "nameRecipes": "Poha",
+        "likes": 2000,
+        "viewRecipes": "To make Poha, rinse 2 cups of flattened rice flakes (Poha) in a strainer under cold running water until they soften. Heat 2 tablespoons of oil in a pan and add 1/2 teaspoon each of mustard seeds and cumin seeds. Add 1 chopped onion, 1 diced potato, and 1 chopped green chili to the pan and sauté for 3-4 minutes. Add 1/4 teaspoon of turmeric powder and salt to taste. Add the softened Poha to the pan and mix everything gently. Cover the pan with a lid and let the Poha cook for 2-3 minutes on low heat. Garnish with fresh cilantro leaves and serve hot. Poha is a popular and filling breakfast dish in India.",
+        "category_id": 1,
+        "_id": "chef0023"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/01/67/17/89/240_F_167178978_8NIOIyvB6DvwrJ8abWO8O4wD6YCeIfjG.jpg",
+        "chefName": "Emily Chen",
+        "yearsOfExperience": 8,
+        "nameRecipes": "Kadhi Chawal",
+        "likes": 1500,
+        "viewRecipes": "Whisk 1 cup yogurt, 3 tbsp besan, and 2 cups water. In a pan, heat oil, add cumin seeds, onion, tomato, and spices. Add yogurt mixture and cook for 15-20 mins. For the pakoras, mix besan, spices, and water to make a thick batter. Fry spoonfuls in hot oil until golden brown. Serve hot with rice. Enjoy",
+        "category_id": 2,
+        "_id": "chef0024"
+    },
+    {
+        "chefPicture": "https://media.istockphoto.com/id/480379752/photo/cook-decorating-a-plate.jpg?s=612x612&w=0&k=20&c=hPxt_XDChTVm219Twis4LWVX6zmw_191A6IVsjxLJdM=",
+        "chefName": "David Lee",
+        "yearsOfExperience": 5,
+        "nameRecipes": "Mint Chutney",
+        "likes": 1000,
+        "viewRecipes": "In a blender, combine 1 cup of fresh mint leaves, 1/2 cup of fresh coriander leaves, 1 small onion, 1 small green chili, 1/2 inch of ginger, 1 tbsp of lemon juice, and salt to taste. Add a little water and blend into a smooth paste. In a pan, heat 1 tsp of oil, add 1/2 tsp of cumin seeds and let them splutter. Pour the tempering over the chutney and mix well. Serve chilled with pakoras, samosas, or any other snack. Enjoy!",
+        "category_id": 3,
+        "_id": "chef0025"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/01/67/13/41/240_F_167134138_CbNAb5HZnRwVfaYUjGRPjlPRC9nspzzs.jpg",
+        "chefName": "Grace Kim",
+        "yearsOfExperience": 12,
+        "nameRecipes": "Lauti Raita",
+        "likes": 3000,
+        "viewRecipes": "Grate 1 cup of bottle gourd (lauki) and squeeze out the excess water. In a bowl, whisk together 1 cup of yogurt, 1/4 tsp of roasted cumin powder, 1/4 tsp of red chili powder, and salt to taste. Add the grated lauki to the yogurt mixture and mix well. Heat 1 tsp of oil in a small pan, add 1/4 tsp of mustard seeds, and let them splutter. Add a pinch of asafoetida and pour the tempering over the raita. Mix well and serve chilled. Enjoy as a refreshing side dish with your favorite Indian meal!",
+        "category_id": 4,
+        "_id": "chef0026"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/76/74/66/240_F_176746667_lrr6hN6DAEdfBeYiTFnkPbMYIeo4wtwX.jpg",
+        "chefName": "Jacob Park",
+        "yearsOfExperience": 6,
+        "nameRecipes": "Puri",
+        "likes": 1100,
+        "viewRecipes": "In a mixing bowl, combine 2 cups of whole wheat flour, 1/2 tsp salt, and 1 tbsp oil. Gradually add water and knead until the dough is soft and smooth. Cover and let it rest for 10-15 minutes. Divide the dough into equal-sized balls and roll them out into small circles. Heat oil in a deep frying pan over medium-high heat. Once the oil is hot, gently slide in the puris one at a time and fry until they puff up and turn golden brown. Remove with a slotted spoon and place on paper towels to absorb excess oil. Serve hot with your favorite curry or sabzi. Enjoy!",
+        "category_id": 5,
+        "_id": "chef0027"
+    },
+    {
+        "chefPicture": "https://t4.ftcdn.net/jpg/04/05/49/49/240_F_405494925_ltiHtQpmuDlawMgeB8uG0BwWjEXsUO06.jpg",
+        "chefName": "Ava Patel",
+        "yearsOfExperience": 9,
+        "nameRecipes": "Panner Puff",
+        "likes": 1800,
+        "viewRecipes": "For the filling, crumble 200g of paneer and mix with 1 finely chopped onion, 1 finely chopped tomato, 1/2 tsp of garam masala, 1/2 tsp of cumin powder, 1/2 tsp of coriander powder, 1/2 tsp of chili powder, 1 tsp of grated ginger, and salt to taste. For the puff pastry, roll out store-bought puff pastry and cut into squares. Place a spoonful of filling in the center of each square, fold the pastry over the filling to form a triangle, and press the edges together to seal. Brush with beaten egg and bake in a preheated oven at 180°C for 20-25 minutes or until golden brown. Serve hot with tomato ketchup or mint chutney. Enjoy!",
+        "category_id": 6,
+        "_id": "chef0028"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/67/20/90/240_F_167209059_3g4MpvQ3e8mM2vTnGRggJ8vDA30Gv1zo.jpg",
+        "chefName": "Emily Jones",
+        "yearsOfExperience": 6,
+        "nameRecipes": "Salmon",
+        "likes": 1000,
+        "viewRecipes": "Season a salmon fillet with salt and pepper, drizzle olive oil over it, and bake it in a preheated oven at 375°F (190°C) for 12-15 minutes. Serve with your choice of sides. Enjoy!",
+        "category_id": 1,
+        "_id": "chef1111"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/04/30/13/76/240_F_430137691_VxMDoK6zAMh0MCkRlQ3Q7B8tBC9Irl9D.jpg",
+        "chefName": "David Kim",
+        "yearsOfExperience": 10,
+        "nameRecipes": "Masala Dosa",
+        "likes": 1500,
+        "viewRecipes": "Soak 1 cup of rice and 1/2 cup of urad dal for 4-6 hours. Grind to a fine batter and ferment for 8 hours or overnight. For the masala, sauté boiled and mashed potatoes with onions, mustard seeds, curry leaves, and spices. To make the dosa, heat a griddle, pour the batter and spread it thin. Add oil, place the masala in the center and fold the dosa. Serve hot with coconut chutney and sambar. Enjoy!",
+        "category_id": 2,
+        "_id": "chef2222"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/01/64/35/52/240_F_164355279_hxSDTHpVxxzEGGiGicozuMGy0tvtuMjR.jpg",
+        "chefName": "Sophia Garcia",
+        "yearsOfExperience": 7,
+        "nameRecipes": "Dahi Vada",
+        "likes": 1200,
+        "viewRecipes": "Soak 1 cup of urad dal in water for 3-4 hours. Drain and grind to a smooth batter. Add salt to taste and mix well. Heat oil in a pan. Wet your hands and take a small portion of the batter. Make a hole in the center and drop it in the hot oil. Fry until golden brown. Soak the vadas in water for 30 minutes. Squeeze out the water and place the vadas on a plate. Pour beaten yogurt on top of the vadas. Sprinkle red chili powder, roasted cumin powder, and salt to taste. Drizzle tamarind chutney and green chutney. Garnish with coriander leaves and serve. Enjoy!",
+        "category_id": 3,
+        "_id": "chef3333"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/04/09/93/46/240_F_409934647_MLOasAaTGrEIsfJ4Qi42ZjfXvaN8URvh.jpg",
+        "chefName": "Ethan Davis",
+        "yearsOfExperience": 9,
+        "nameRecipes": "Palak Raita Salad",
+        "likes": 1700,
+        "viewRecipes": "Blend 1 cup spinach leaves and 1/2 cup yogurt. In a bowl, mix 1 cup yogurt, 1/2 tsp roasted cumin powder, 1/4 tsp red chili powder, and salt. Add the spinach-yogurt mixture, chopped cucumber, and onion. For tempering, heat 1 tsp oil, add 1/4 tsp mustard seeds and a pinch of asafoetida, then pour over the raita. Serve chilled as a healthy and flavorful salad. Enjoy!",
+        "category_id": 4,
+        "_id": "chef4444"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/02/03/23/18/240_F_203231879_IhCwsouVgcn0sjLEjzqEQbxcheBQjlGr.jpg",
+        "chefName": "Avery Wilson",
+        "yearsOfExperience": 5,
+        "nameRecipes": "Rasam",
+        "likes": 800,
+        "viewRecipes": "In a pot, boil 3 cups of water with 2 chopped tomatoes, 2 cloves of garlic, 1 chopped green chili, 1 tsp of grated ginger, and a pinch of turmeric powder. Once the tomatoes are cooked, add 2 tbsp of rasam powder, salt to taste, and 1/4 cup of tamarind juice. Let it simmer for 5-7 minutes. In a small pan, heat 1 tbsp of ghee and add 1/2 tsp of mustard seeds, 1/2 tsp of cumin seeds, and a pinch of asafoetida. Once the mustard seeds pop, add it to the rasam and mix well. Garnish with chopped coriander leaves and serve hot with steamed rice. Enjoy!",
+        "category_id": 5,
+        "_id": "chef5555"
+    },
+    {
+        "chefPicture": "https://t3.ftcdn.net/jpg/05/13/34/56/240_F_513345643_m3fgc0kigOp857sBDc6vDLYgD9df5O87.jpg",
+        "chefName": "Benjamin Martinez",
+        "yearsOfExperience": 11,
+        "nameRecipes": "Sev Puri",
+        "likes": 2500,
+        "viewRecipes": "Sev Puri is a popular Indian street food that is enjoyed as a snack or appetizer. To make Sev Puri, you will need small, crispy puris that are topped with mashed potatoes, finely chopped onions, and a tangy tamarind chutney. This is then sprinkled with sev, a popular Indian snack made from chickpea flour, and garnished with fresh cilantro leaves. The combination of the crispy puris, soft potatoes, tangy chutney, and crunchy sev creates a delicious explosion of flavors and textures in your mouth. Sev Puri is easy to make and is a perfect party snack that is sure to impress your guests.",
+        "category_id": 6,
+        "_id": "chef6666"
+    }
+]
